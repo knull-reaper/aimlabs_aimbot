@@ -1,5 +1,26 @@
 # Aimlabs Aimbot Project
 
+## 🚨🛑⚠️ CAUTION: IMPORTANT WARNINGS ⚠️🛑🚨
+
+**This software is intended for educational and research purposes ONLY.** 🎓🔬
+
+Using aimbots or any form of cheating software in online multiplayer games like Aimlabs (or others) is strictly against their Terms of Service (ToS). 📜🚫
+
+**Using this software in online games WILL likely result in:**
+
+- **Permanent account bans.** 🚫🔒
+- **Detection by anti-cheat systems.** 🕵️‍♂️💻
+- **Negative impact on the gaming community.** 😠👎
+
+**By using or compiling this software, you acknowledge and agree that:**
+
+1.  You understand the risks associated with using cheating software.
+2.  You will **NOT** use this software in any online multiplayer environment or against other players. 🙅‍♂️🎮
+3.  The author(s) and contributor(s) of this project are **NOT** responsible for any consequences resulting from the misuse of this software, including but not limited to account bans or legal action. ⚖️🤷‍♀️
+4.  You assume **ALL** responsibility for your actions related to this software.
+
+**Use this software responsibly and ethically, solely for learning and experimentation in offline or controlled environments.** ✅👨‍💻
+
 This project is a C++ application developed as an aimbot, specifically targeting the Aimlabs training software environment. It leverages several technologies for its operation:
 
 - **Screen Capture:** Utilizes the modern Windows Graphics Capture API (`Windows.Graphics.Capture`) for efficient, high-performance screen recording of the primary monitor.
@@ -75,24 +96,3 @@ Building OpenCV with CUDA is a complex process and requires careful configuratio
     - Ensure the compiled OpenCV DLLs are either in the same directory as your executable or in a location included in the system's PATH environment variable so they can be found at runtime.
 
 **Note:** This process can be time-consuming and prone to errors. Carefully check compatibility between your GPU driver, CUDA Toolkit, cuDNN, and the OpenCV version. Consult online guides and the official documentation frequently.
-
-## ⚠️ CAUTION: IMPORTANT WARNINGS ⚠️
-
-**This software is intended for educational and research purposes ONLY.**
-
-Using aimbots or any form of cheating software in online multiplayer games like Aimlabs (or others) is strictly against their Terms of Service (ToS).
-
-**Using this software in online games WILL likely result in:**
-
-- **Permanent account bans.**
-- **Detection by anti-cheat systems.**
-- **Negative impact on the gaming community.**
-
-**By using or compiling this software, you acknowledge and agree that:**
-
-1.  You understand the risks associated with using cheating software.
-2.  You will **NOT** use this software in any online multiplayer environment or against other players.
-3.  The author(s) and contributor(s) of this project are **NOT** responsible for any consequences resulting from the misuse of this software, including but not limited to account bans or legal action.
-4.  You assume **ALL** responsibility for your actions related to this software.
-
-**Use this software responsibly and ethically, solely for learning and experimentation in offline or controlled environments.**
